@@ -1,0 +1,6 @@
+# Versions used in the validated server environment.
+# Install a compatible GPU build of PyTorch separately (tested: torch 2.5.1+cu124).
+numpy==2.1.3
+scipy==1.18.1
+opencv-python-headless==4.14.0.94
+Pillow==11.0.0
